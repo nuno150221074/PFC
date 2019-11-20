@@ -1,2 +1,2 @@
 # PFC
-Desenvolvimento de uma aplicação móvel para dinamometria
+Desenvolvimento de uma aplicação para dinamometria
